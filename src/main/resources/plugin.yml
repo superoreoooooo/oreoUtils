@@ -1,0 +1,4 @@
+name: oreoUtils
+version: '${project.version}'
+main: win.oreo.oreoutils.OreoUtils
+api-version: 1.19
